@@ -1,6 +1,6 @@
 from src.DataScienceProject import logger
 
-# logger.info("Welcome to my Custom Logging DataScience")
+# logger.info("Welcome to my Custom Logging DataScience- Demo")
 
 from src.DataScienceProject.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 
